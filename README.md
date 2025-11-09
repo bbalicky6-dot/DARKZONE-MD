@@ -16,7 +16,7 @@
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `4.6.2 ⚡`**
+> **CURRENT BOT VERSION ➜ `6.0.0 ⚡`**
 ---
 
 
