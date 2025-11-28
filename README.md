@@ -1,11 +1,4 @@
-
-<div align="center">
-  
-<h2 style="color:#3498DB">DARKZONE-MD WHATSAPP BOT</h2>
-<h3 style="color:#3498DB">THE MOST ADVANCED MD BOT</h3>
-<h4 style="color:#3498DB">WITH 100+ FEATURES</h4>
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=DARKZONE%20MD|BOT)
 
 <!-- Glowing CTA Button -->
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD">
