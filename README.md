@@ -1,9 +1,9 @@
-
-https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2500&center=true&vCenter=true&color=00FFFF,FF66FF,FFFF66&weight=700&lines=WELCOME
-
-
-
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2500&center=true&vCenter=true&color=00FFFF,FF66FF,FFFF66&weight=700&lines=WELCOME"
+    alt="WELCOME Typing SVG"
+  />
+</p>
 
 <p align="center">
   <span style="display:inline-block; position:relative; line-height:0;">
