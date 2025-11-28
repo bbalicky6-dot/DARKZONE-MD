@@ -25,31 +25,8 @@
   </span>
 </p>
 
-
-
-
-
-
-
-
-<!-- Glowing CTA Button -->
-<a href="https://github.com/ERFAN-Md/DARKZONE-MD">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF9D00&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=%F0%9F%94%A5+FORK+%F0%9F%8D%B4+%26+STAR+%F0%9F%8C%9F+TO+SUPPORT+%F0%9F%94%A5" alt="CTA">
-</a>
-
-</div>
-```
----
-
-> **CURRENT BOT VERSION ➜ `6.0.0 ⚡`**
----
-
-
-
-
-
-  <p align="center">
-<a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/ERFAN-Md?color=blue&style=flat-square"></a>
+ <p align="center">
+<a href="https://github.com/ERFAN-Md-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/ERFAN-Md?color=blue&style=flat-square"></a>
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ERFAN-Md/DARKZONE-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKZONE-MD/DARKZONE-BOT?style=flat-square&color=green"></a>
