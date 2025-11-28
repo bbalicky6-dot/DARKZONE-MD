@@ -3,13 +3,13 @@
   <span style="display:inline-block; position:relative; line-height:0;">
     <!-- background (right half) color: magenta -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&weight=700&lines=DARKZONE%20|MD"
       alt="Typing SVG (right color)"
       style="display:block;"
     />
     <!-- top (left half) color: cyan, clipped to left 50% so left shows cyan and right shows magenta -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=ERFAN%20|AHMAD"
       alt="Typing SVG (left color)"
       style="position:absolute; left:0; top:0; display:block; clip-path: inset(0 50% 0 0); -webkit-clip-path: inset(0 50% 0 0);"
     />
