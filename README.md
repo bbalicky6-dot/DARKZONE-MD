@@ -1,6 +1,28 @@
-<table align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=DARKZONE%20MD|BOT)
-</table>
+<!-- Paste this into your GitHub README.md -->
+<p align="center">
+  <span style="display:inline-block; position:relative; line-height:0;">
+    <!-- background (right half) color: magenta -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=FF69B4&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT"
+      alt="Typing SVG (right color)"
+      style="display:block;"
+    />
+    <!-- top (left half) color: cyan, clipped to left 50% so left shows cyan and right shows magenta -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT"
+      alt="Typing SVG (left color)"
+      style="position:absolute; left:0; top:0; display:block; clip-path: inset(0 50% 0 0); -webkit-clip-path: inset(0 50% 0 0);"
+    />
+  </span>
+</p>
+
+
+
+
+
+
+
+
 <!-- Glowing CTA Button -->
 <a href="https://github.com/ERFAN-Md/DARKZONE-MD">
   <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF9D00&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=%F0%9F%94%A5+FORK+%F0%9F%8D%B4+%26+STAR+%F0%9F%8C%9F+TO+SUPPORT+%F0%9F%94%A5" alt="CTA">
