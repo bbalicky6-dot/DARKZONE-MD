@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00CFFF&background=8B008B&center=true&vCenter=true&width=650&lines=WITH+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-> **CURRENT BOT VERSION âžœ `6.0.0 âš¡`**
+> **CURRENT BOT VERSION ➜ `6.0.0 ⚡`**
 
 ---
 
@@ -50,22 +50,22 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=âš¡+ERFAN+MD+WHATSAPP+BOT;ðŸ”¥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;ðŸ’»+DEVELOPED+BY+ERFAN+AHMAD;ðŸš€+ULTRA+FAST+PERFORMANCE;ðŸŒˆ+SECURE+ðŸ”’+STABLE+âš¡+PREMIUM" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+ERFAN+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
 </h1>
 
 ---
 
 <div align="center">
 
-### 1. ðƒFORK THIS REPOSITORYðƒ
+### 1. 𐃁FORK THIS REPOSITORY𐃁
 
-`FORK ðŸ´ AND STAR â­ IF YOU LIKE THIS BOT`
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
 <a href="#">
   <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
-### 2. ðƒGET SESSION IDðƒ
+### 2. 𐃁GET SESSION ID𐃁
 
 `GET YOUR SESSION_ID BY ENTERING YOUR NUMBER WITH COUNTRY CODE`
 
@@ -86,7 +86,7 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONSðƒ</h2>
+### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -155,15 +155,15 @@
 
 
 
-## âœ¨ Key Features
+## ✨ Key Features
 <div align="center">
 
 | Category | Features |
 |---------|----------|
-| **ðŸŒ Core** | Multi-Device â€¢ Anti-Delete â€¢ AI Chatbot |
-| **ðŸŽ¨ Media** | YouTube DL â€¢ Instagram/TikTok DL â€¢ Sticker Maker |
-| **ðŸ‘¥ Group** | Moderation â€¢ Auto-Sticker â€¢ Games â€¢ Admin Tools |
-| **âš™ï¸ Utilities** | Web Pairing â€¢ QR Login â€¢ Broadcast |
+| **🌐 Core** | Multi-Device • Anti-Delete • AI Chatbot |
+| **🎨 Media** | YouTube DL • Instagram/TikTok DL • Sticker Maker |
+| **👥 Group** | Moderation • Auto-Sticker • Games • Admin Tools |
+| **⚙️ Utilities** | Web Pairing • QR Login • Broadcast |
 
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-## ðŸ“ž Contact & Support
+## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
 
@@ -194,3 +194,4 @@
 </div>
 
 ---
+
