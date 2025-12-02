@@ -174,24 +174,20 @@
 ## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
-
-<a href="#" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/Contact_Owner-0078FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+  <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
-
----
 
 ### Join Our Community
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Join_Group-0078FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://chat.whatsapp.com/H27rbX1EFLEJoQPrQD4WiO">
+  <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Join_Channel-0078FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
+  <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 
 </div>
+
 
 ---
 
