@@ -110,18 +110,9 @@
     </tr>
   </table>
 </div>
-<table align="center">
-  <tr>
-    <td>
-      <a href="(https://dark-zone-hosting-c4c34e97e034.herokuapp.com/)" target="_blank">
-        <img 
-          alt="Deploy Free On VPS" 
-          src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://dark-zone-hosting-c4c34e97e034.herokuapp.com/" target="_blank">
+  <img alt="VPS SITE" src="https://img.shields.io/badge/Get%20VPS%20SITE-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
+</a>
 
 
 
@@ -133,7 +124,7 @@
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
-  </tr>
+  </tr>a 
 </table>  
 
 <table align="center">
